@@ -86,7 +86,7 @@ main_df = all_df[(all_df["order_purchase_timestamp"] >= str(start_date)) &
 daily_orders_df = create_daily_orders_df(main_df)
 sum_order_items_df = create_sum_order_items_df(poi_df)
 rfm_df = create_rfm_df(main_df)
-st.dataframe(daily_orders_df)
+#st.dataframe(daily_orders_df)
 
 # plot number of daily orders (2021)
 st.header('Olist Store Dashboard :sparkles:')
