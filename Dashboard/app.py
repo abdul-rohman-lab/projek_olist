@@ -90,7 +90,7 @@ rfm_df = create_rfm_df(main_df)
 
 # plot number of daily orders (2021)
 st.header('Olist Store Dashboard :sparkles:')
-st.subheader('Daily Orders')
+st.subheader('Daily - Orders')
 
 col1, col2 = st.columns(2)
 
