@@ -81,7 +81,7 @@ max_date = all_df["order_purchase_timestamp"].max()
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://github.com/abdul-rohman-lab/projek_olist/blob/main/logo_olist_d7309b5f20.png")
+    st.image("https://raw.githubusercontent.com/abdul-rohman-lab/projek_olist/main/logo_olist_d7309b5f20.png")
 
     st.image(
             "https://github.com/abdul-rohman-lab/projek_olist/blob/main/logo_olist_d7309b5f20.png",
