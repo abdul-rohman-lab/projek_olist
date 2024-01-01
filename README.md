@@ -1,5 +1,8 @@
 # Olist Shop Dashboard ✨
 
+## Sekilas info saya menggunakan google colab untuk membuat notebook. selain saya upload,saya juga menaruh link notebook saya di url
+
+
 ## Setup environment
 ```
 conda create --name main-ds python=3.9
