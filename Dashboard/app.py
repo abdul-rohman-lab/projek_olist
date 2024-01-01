@@ -83,6 +83,13 @@ with st.sidebar:
     # Menambahkan logo perusahaan
     st.image("https://github.com/abdul-rohman-lab/projek_olist/blob/main/logo_olist_d7309b5f20.png")
 
+    st.image(
+            "https://github.com/abdul-rohman-lab/projek_olist/blob/main/logo_olist_d7309b5f20.png",
+            width=400, # Manually Adjust the width of the image as per requirement
+        )
+
+
+
     # Menambahkan logo perusahaan
     st.subheader("Olist Store")
 
